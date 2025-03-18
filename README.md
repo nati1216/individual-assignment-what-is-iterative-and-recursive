@@ -9,3 +9,7 @@ interative approach is Uses loops (e.g., for, while) to repeatedly execute a blo
    - Typically more memory-efficient because it doesn't involve the overhead of function calls.
    - Easier to debug and understand for simple problems.
 SUMMARY OF FINDINGS
+Iterative Approach:
+   - More memory-efficient (O(1) space complexity).
+   - Easier to implement for simple problems.
+   - Preferred for performance-critical applications.
